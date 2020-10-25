@@ -1,6 +1,5 @@
 
 
-  
 ## Table of Contents
 - [Introduction](#introduction)
 - [About Hydroponics](#about-hydroponics)
